@@ -8,12 +8,9 @@ import (
 	"os"
 	"sync"
 	"time"
-
-	"github.com/labstack/echo/v4"
 )
 
 func main() {
-	e := echo.New()
 	currentTime := time.Now()
 
 	startDate := currentTime
@@ -45,8 +42,5 @@ func main() {
 		log.Println("Error writing to file:", err)
 		return
 	}
-
-	log.Println("Server is running on :8080")
-	e.Logger.Fatal(e.Start(":8080"))
 
 }

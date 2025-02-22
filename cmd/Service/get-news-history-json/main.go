@@ -8,18 +8,15 @@ import (
 	"os"
 	"sync"
 	"time"
-
-	"github.com/labstack/echo/v4"
 )
 
 func main() {
-	e := echo.New()
 	// currentTime := time.Now()
 	// rangDate := currentTime.Format("Jan02.2006")
 
 	listDate := []string{}
-	startDate := time.Date(2025, 1, 5, 0, 0, 0, 0, time.UTC)
-	endDate := time.Date(2025, 1, 11, 0, 0, 0, 0, time.UTC)
+	startDate := time.Date(2022, 1, 1, 0, 0, 0, 0, time.UTC)
+	endDate := time.Date(2025, 2, 22, 0, 0, 0, 0, time.UTC)
 
 	for d := startDate; !d.After(endDate); d = d.AddDate(0, 0, 1) {
 		listDate = append(listDate, d.Format("Jan02.2006"))
@@ -46,8 +43,5 @@ func main() {
 		log.Println("Error writing to file:", err)
 		return
 	}
-
-	log.Println("Server is running on :8080")
-	e.Logger.Fatal(e.Start(":8080"))
 
 }

@@ -1,42 +1,5272 @@
 [
   {
-    "date": "08-01-2025",
-    "time": "20:15:00",
+    "date": "19-07-2025",
+    "time": "19:30",
+    "title": "Housing Starts"
+  },
+  {
+    "date": "14-01-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-01-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "19-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "19-10-2025",
+    "time": "23:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "22-02-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "22-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "22-02-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "22-02-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "10-03-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "10-03-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "10-03-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "02:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "29-10-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "29-10-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "12-02-2025",
+    "time": "03:40",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "12-02-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-02-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-02-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "12-02-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "17-08-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-08-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "08-12-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "08-12-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "08-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "08-12-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "09-03-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "05-04-2025",
+    "time": "19:15",
     "title": "ADP Non-Farm Employment Change"
   },
   {
-    "date": "08-01-2025",
-    "time": "20:30:00",
+    "date": "05-04-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "03-02-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "03-02-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "03-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "03-02-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "02:08",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "26-05-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "26-04-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "26-04-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "22-03-2025",
+    "time": "20:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "29-03-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "29-03-2025",
+    "time": "22:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "16-11-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "16-11-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "27-01-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "03-01-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "03-01-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "21-09-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "21-09-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "21-09-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "21-09-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "21-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "17-11-2025",
+    "time": "20:30",
+    "title": "Philly Fed Manufacturing Index"
+  },
+  {
+    "date": "01-10-2025",
+    "time": "00:55",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "01-10-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-10-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "16-12-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "12-10-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "12-10-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-10-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-10-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "12-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "23-08-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "19:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "11-08-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "11-08-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "11-08-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "29-09-2025",
+    "time": "03:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "29-09-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "29-09-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "09-12-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "09-12-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "09-12-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "17-09-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-09-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "13-03-2025",
+    "time": "05:20",
+    "title": "Fed Announcement"
+  },
+  {
+    "date": "29-08-2025",
+    "time": "20:00",
+    "title": "S\u0026P/CS Composite-20 HPI y/y"
+  },
+  {
+    "date": "29-08-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "29-08-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "17-10-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-10-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-01-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "15-01-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "15-01-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "03:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "22-12-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "22-12-2025",
+    "time": "22:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "02-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "07-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "00:01",
+    "title": "30-y Bond Auction"
+  },
+  {
+    "date": "18-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "17-10-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "19-02-2025",
+    "time": "04:13",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "19-02-2025",
+    "time": "09:00",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "05-05-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "04-08-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "05-05-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "05-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "04-08-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "04-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "13-03-2025",
+    "time": "00:01",
+    "title": "10-y Bond Auction"
+  },
+  {
+    "date": "08-02-2025",
+    "time": "00:40",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "08-02-2025",
+    "time": "21:15",
+    "title": "FOMC Member Williams Speaks"
+  },
+  {
+    "date": "05-06-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "28-09-2025",
+    "time": "19:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "28-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-03-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "31-03-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "30-05-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "01-03-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "10-11-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-11-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-11-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "10-11-2025",
+    "time": "21:00",
+    "title": "Treasury Currency Report"
+  },
+  {
+    "date": "01-12-2025",
+    "time": "01:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "01-12-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "01-12-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "22-09-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "22-09-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "22-09-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "22-09-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "04-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "05-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "11-10-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "11-10-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "16-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "26-01-2025",
+    "time": "20:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "07-07-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "16-06-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "16-06-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "16-06-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "16-06-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "26-10-2025",
+    "time": "03:35",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "26-10-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "26-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-07-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "08-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "14-04-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-04-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-04-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "05-11-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "05-11-2025",
+    "time": "ALL DAY",
+    "title": "Presidential Election"
+  },
+  {
+    "date": "05-11-2025",
+    "time": "ALL DAY",
+    "title": "Congressional Elections"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "25-04-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "19-12-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "19-12-2025",
+    "time": "02:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "19-12-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "19-12-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "19-12-2025",
+    "time": "20:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "19-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "15-04-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-04-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-04-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "13-12-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "13-12-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "16-09-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "05-10-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "05-10-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "13-07-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "13-07-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "13-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "02:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "11-01-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "11-01-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "11-01-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "11-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "15-08-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-08-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-08-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "22-09-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "22-09-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "11-11-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "13-07-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-07-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-07-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "19-01-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "08-11-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "08-11-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "08-11-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "23-12-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "08-03-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "08-03-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "08-03-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "07-04-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "07-04-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "07-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "09-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-03-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "01-03-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "15-09-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-09-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-09-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "02-11-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "02-06-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "28-06-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "22-08-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "22-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "22-08-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "22-08-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "27-09-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "15-07-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-07-2025",
+    "time": "23:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "03-03-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "31-05-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "24-02-2025",
+    "time": "20:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "16-10-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "21-06-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-06-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "26-08-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "26-08-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "06-05-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "06-05-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "06-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "06-10-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "06-10-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "06-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "27-04-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "27-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "18-08-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "18-08-2025",
+    "time": "19:30",
+    "title": "Philly Fed Manufacturing Index"
+  },
+  {
+    "date": "19-05-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "11-07-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "11-07-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "11-07-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "11-07-2025",
+    "time": "19:30",
     "title": "Unemployment Claims"
   },
   {
     "date": "10-01-2025",
-    "time": "20:30:00",
+    "time": "21:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "13-09-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-09-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-09-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-03-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "26-03-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "18-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "21-02-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "23-09-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "23-09-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "09-07-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "11-08-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "06-09-2025",
+    "time": "19:30",
     "title": "Average Hourly Earnings m/m"
   },
   {
-    "date": "10-01-2025",
-    "time": "20:30:00",
+    "date": "06-09-2025",
+    "time": "19:30",
     "title": "Non-Farm Employment Change"
   },
   {
-    "date": "10-01-2025",
-    "time": "20:30:00",
+    "date": "06-09-2025",
+    "time": "19:30",
     "title": "Unemployment Rate"
   },
   {
-    "date": "09-01-2025",
-    "time": "02:00:00",
-    "title": "FOMC Meeting Minutes"
+    "date": "06-09-2025",
+    "time": "22:00",
+    "title": "FOMC Member Waller Speaks"
+  },
+  {
+    "date": "20-12-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "28-03-2025",
+    "time": "05:00",
+    "title": "FOMC Member Waller Speaks"
+  },
+  {
+    "date": "28-03-2025",
+    "time": "19:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "28-03-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "28-03-2025",
+    "time": "21:00",
+    "title": "Pending Home Sales m/m"
+  },
+  {
+    "date": "28-03-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "08-11-2025",
+    "time": "ALL DAY",
+    "title": "Congressional Elections"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "02-10-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "02-10-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "21-12-2025",
+    "time": "20:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "21-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "30-04-2025",
+    "time": "19:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "30-04-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "15-11-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "23-11-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "01-03-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-03-2025",
+    "time": "22:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "02-05-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "02-05-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "02-05-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "02-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "06-01-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "06-01-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "06-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "06-01-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "14-06-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
   },
   {
     "date": "07-01-2025",
-    "time": "22:00:00",
+    "time": "22:00",
     "title": "ISM Services PMI"
   },
   {
     "date": "07-01-2025",
-    "time": "22:00:00",
+    "time": "22:00",
     "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "08-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "30-07-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "30-07-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "13-09-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-09-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-09-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "03-04-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "10-10-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "10-10-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-10-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-10-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "10-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "10-01-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "10-01-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "10-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "07-01-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "07-01-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "07-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "23-03-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "23-03-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "23-03-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "23-03-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "23-03-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-10-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "21-03-2025",
+    "time": "23:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "01-06-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "01-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-06-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "12-03-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-03-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-03-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "06-09-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "14-09-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "14-09-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-09-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "14-09-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "28-06-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "27-10-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "27-10-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "25-05-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "25-05-2025",
+    "time": "19:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "25-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "24-01-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-01-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "22-02-2025",
+    "time": "03:56",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "27-05-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "26-09-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "24-11-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "17-04-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "06-09-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "10-02-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-02-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-02-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "28-05-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "26-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "20:30",
+    "title": "FOMC Member Bullard Speaks"
+  },
+  {
+    "date": "02-09-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "02-09-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "02-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "13-11-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-11-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-11-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "02-12-2025",
+    "time": "02:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "25-08-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "25-08-2025",
+    "time": "21:05",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "21-04-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "21-04-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "05-12-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "17-06-2025",
+    "time": "01:00",
+    "title": "Treasury Currency Report"
+  },
+  {
+    "date": "01-06-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-06-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "16-12-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "16-12-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "25-08-2025",
+    "time": "19:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "06-03-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "06-03-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "06-03-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "01-05-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "12-09-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "12-09-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "12-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "16-07-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "16-07-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "28-01-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "30-08-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "30-08-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "24-01-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-01-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "13-08-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "13-08-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "05-12-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "05-12-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "06-12-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "03-07-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "03-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-07-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "17-02-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "17-06-2025",
+    "time": "19:45",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "03-03-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "03-03-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "03-08-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "09-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "18-07-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "18-07-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "03-12-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "05-05-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "05-05-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "05-05-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "17-03-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "17-03-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "17-03-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "17-03-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "27-06-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "22-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "22-06-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "16-01-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "16-01-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "16-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "23-08-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "23-08-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "14-10-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-10-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-01-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "14-01-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "10-05-2025",
+    "time": "00:01",
+    "title": "30-y Bond Auction"
+  },
+  {
+    "date": "10-05-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "14-10-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "02-12-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "05-12-2025",
+    "time": "01:45",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "05-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "08-03-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "08-03-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "08-03-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "14-08-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "14-08-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "14-08-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "20-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "12-05-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "04-01-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "20-12-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "01-04-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "01-04-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "01-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "01-04-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "03-06-2025",
+    "time": "20:45",
+    "title": "Final Manufacturing PMI"
+  },
+  {
+    "date": "03-06-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-07-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "07-07-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "07-07-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "07-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "06-12-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "06-12-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "06-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "16-03-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "11-02-2025",
+    "time": "04:30",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "11-02-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "23-03-2025",
+    "time": "19:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "01-04-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "03-06-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "03-06-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "03-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "02-05-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "16-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-09-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "29-03-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "17-06-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "03-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-08-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "01-05-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "01-05-2025",
+    "time": "20:45",
+    "title": "Final Manufacturing PMI"
+  },
+  {
+    "date": "01-05-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-05-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "08-07-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "08-07-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "08-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "10-11-2025",
+    "time": "02:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "10-11-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "15-08-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-08-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "30-03-2025",
+    "time": "19:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "30-03-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "18-05-2025",
+    "time": "01:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "13-12-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-12-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-12-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "25-04-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "25-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "25-04-2025",
+    "time": "21:00",
+    "title": "Pending Home Sales m/m"
+  },
+  {
+    "date": "20-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "30-03-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "29-06-2025",
+    "time": "20:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "07-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "16-03-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "16-03-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "02-04-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "23-05-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "23-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "23-05-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "23-05-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "14-09-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "04-05-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "04-05-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "04-05-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "04-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "26-11-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "25-01-2025",
+    "time": "20:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "25-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "12-12-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "12-12-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "12-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "23-04-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "23-04-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "22-11-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "22-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "22-11-2025",
+    "time": "22:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "14-07-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "04-06-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "23-05-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "23-05-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "07-03-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "07-03-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "30-06-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "06-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "23-09-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "05-07-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "05-07-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "05-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "24-05-2025",
+    "time": "21:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "23-06-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "01:36",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-02-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "28-03-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "12-07-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "12-07-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "12-07-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "12-08-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "08-11-2025",
+    "time": "04:00",
+    "title": "Treasury Currency Report"
+  },
+  {
+    "date": "08-11-2025",
+    "time": "21:15",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "15-02-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "07-04-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "10-05-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-05-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-05-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "18-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "17-07-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "16-01-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "10-04-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-04-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-04-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "24-10-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-10-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "11-04-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "11-04-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "11-04-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "11-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-09-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "01-09-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "01-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "01-09-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "00:01",
+    "title": "30-y Bond Auction"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "24-03-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-03-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "29-06-2025",
+    "time": "13:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "29-06-2025",
+    "time": "19:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "29-06-2025",
+    "time": "19:32",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "19-09-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "19-09-2025",
+    "time": "01:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "19-09-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "19-09-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "19-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "14-11-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "14-11-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "14-11-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "04-05-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "03-02-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "29-11-2025",
+    "time": "20:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "03-02-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-08-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "20-10-2025",
+    "time": "19:30",
+    "title": "Philly Fed Manufacturing Index"
+  },
+  {
+    "date": "20-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "16-06-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "25-07-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "02-03-2025",
+    "time": "20:17",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "02-03-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "04-03-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "04-03-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "04-03-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "06-07-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "06-07-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "06-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "05-08-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "06-07-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "06-07-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "17-04-2025",
+    "time": "00:15",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "31-01-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "17-12-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-12-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-11-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "27-11-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "27-11-2025",
+    "time": "20:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "27-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "27-11-2025",
+    "time": "22:00",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "04-02-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "04-02-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "04-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "06-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-12-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-12-2025",
+    "time": "23:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "13-04-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "05-03-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "14-03-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "28-02-2025",
+    "time": "20:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "31-03-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "18-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "17-05-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-05-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-07-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-07-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "15-07-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "04-09-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "06-01-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "06-01-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "05-06-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "05-06-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "30-08-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "25-02-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "05-04-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "07-06-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "07-06-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "07-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "13-10-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "13-10-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "13-10-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "13-10-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "07-02-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "07-02-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "07-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "03-10-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "15-09-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-09-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "17-03-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "07-03-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "24-11-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-11-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "02-11-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "02-11-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "02-11-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "09-01-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "02-11-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "18-01-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "18-01-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "18-01-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "18-01-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "14-04-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "14-04-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "23-08-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "26-01-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "07-10-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "07-10-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "07-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "12-07-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-07-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-07-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "08-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "24-09-2025",
+    "time": "01:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "03:48",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "13-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "11-01-2025",
+    "time": "22:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-06-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "25-10-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "27-09-2025",
+    "time": "18:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "27-09-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "27-01-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "27-01-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "27-01-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "27-01-2025",
+    "time": "20:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "30-08-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "30-08-2025",
+    "time": "19:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "08-09-2025",
+    "time": "20:10",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "02-02-2025",
+    "time": "22:00",
+    "title": "Revised UoM Consumer Sentiment"
+  },
+  {
+    "date": "22-04-2025",
+    "time": "00:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "06-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "30-05-2025",
+    "time": "19:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "30-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "30-05-2025",
+    "time": "21:00",
+    "title": "Pending Home Sales m/m"
+  },
+  {
+    "date": "24-09-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "10-06-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-06-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-06-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "10-06-2025",
+    "time": "20:00",
+    "title": "Treasury Currency Report"
+  },
+  {
+    "date": "27-08-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "12-06-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-06-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-06-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "24-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-04-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "12-01-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "25-06-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "26-05-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "26-05-2025",
+    "time": "19:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "02-07-2025",
+    "time": "20:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "02-07-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "02-06-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "02-06-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "02-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "11-10-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "11-10-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "24-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "24-10-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-10-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "24-01-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "10-03-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "10-03-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-03-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "17-01-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "11-05-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "11-05-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "11-05-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "06-07-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "28-04-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "30-06-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "11-12-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "01-07-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "10-07-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "11-12-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "11-12-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "14-07-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "17-08-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "17-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "24-02-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "11-05-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "11-05-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "11-05-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "02-05-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "14-05-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "14-05-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "14-05-2025",
+    "time": "21:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "24-07-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "20-02-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "24-07-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "20-02-2025",
+    "time": "05:00",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "20-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "18-06-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "18-06-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "27-10-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "05-08-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "05-08-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "05-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "20-03-2025",
+    "time": "04:00",
+    "title": "Fed Announcement"
+  },
+  {
+    "date": "25-07-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "25-07-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "31-08-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "05-09-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "05-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "05-09-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "16-05-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "16-05-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "03-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-10-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "04-11-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "04-11-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "04-11-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "28-01-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "12-10-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "26-06-2025",
+    "time": "21:00",
+    "title": "New Home Sales"
+  },
+  {
+    "date": "14-11-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "14-11-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "14-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "12-05-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "20:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "16-02-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "26-09-2025",
+    "time": "19:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "26-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "26-09-2025",
+    "time": "20:20",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "30-09-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "24-10-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "31-01-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "31-01-2025",
+    "time": "20:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "31-10-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "31-10-2025",
+    "time": "19:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "31-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "05-02-2025",
+    "time": "05:10",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "05-02-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "05-02-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "12-12-2025",
+    "time": "20:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "12-12-2025",
+    "time": "20:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "12-12-2025",
+    "time": "20:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "01-09-2025",
+    "time": "21:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "14-06-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "14-06-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "21-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "28-06-2025",
+    "time": "20:30",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "29-11-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "28-11-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "24-07-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "24-07-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "30-11-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "30-11-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "14-06-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "22-07-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "15-05-2025",
+    "time": "19:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "04-07-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "04-04-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "28-02-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "31-07-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "31-07-2025",
+    "time": "19:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "31-07-2025",
+    "time": "21:00",
+    "title": "Pending Home Sales m/m"
+  },
+  {
+    "date": "11-03-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "20:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "30-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "22-11-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "22-11-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "31-10-2025",
+    "time": "19:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "31-10-2025",
+    "time": "21:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "21-02-2025",
+    "time": "07:20",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "21-02-2025",
+    "time": "21:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "21-02-2025",
+    "time": "21:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "29-04-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "31-01-2025",
+    "time": "20:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "31-01-2025",
+    "time": "20:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "11-09-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "11-09-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "11-09-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "23-06-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "23-06-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "02-10-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "17-01-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-01-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "07-09-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "28-04-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "28-04-2025",
+    "time": "19:30",
+    "title": "Employment Cost Index q/q"
+  },
+  {
+    "date": "13-10-2025",
+    "time": "21:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "30-11-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "30-11-2025",
+    "time": "20:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "30-11-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "04-02-2025",
+    "time": "22:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "10-02-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "21-01-2025",
+    "time": "00:00",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "22-06-2025",
+    "time": "20:30",
+    "title": "Fed Chair Powell Testifies"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "05-01-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "02-12-2025",
+    "time": "20:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "02-12-2025",
+    "time": "20:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "02-12-2025",
+    "time": "20:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "05-04-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "05-04-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "05-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "04-12-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "04-12-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "03-05-2025",
+    "time": "21:00",
+    "title": "JOLTS Job Openings"
+  },
+  {
+    "date": "03-04-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "03-04-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "03-04-2025",
+    "time": "23:10",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "01-02-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "Core CPI m/m"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "CPI m/m"
+  },
+  {
+    "date": "10-08-2025",
+    "time": "19:30",
+    "title": "CPI y/y"
+  },
+  {
+    "date": "13-01-2025",
+    "time": "22:00",
+    "title": "Prelim UoM Consumer Sentiment"
+  },
+  {
+    "date": "31-08-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "31-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "17-10-2025",
+    "time": "19:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "17-10-2025",
+    "time": "19:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "17-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "03-01-2025",
+    "time": "22:00",
+    "title": "ISM Manufacturing PMI"
+  },
+  {
+    "date": "13-01-2025",
+    "time": "20:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "02:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "02:00",
+    "title": "FOMC Economic Projections"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "02:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "02:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "20:30",
+    "title": "Core Retail Sales m/m"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "20:30",
+    "title": "Empire State Manufacturing Index"
+  },
+  {
+    "date": "15-12-2025",
+    "time": "20:30",
+    "title": "Retail Sales m/m"
+  },
+  {
+    "date": "27-06-2025",
+    "time": "19:30",
+    "title": "Final GDP q/q"
+  },
+  {
+    "date": "27-06-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "27-06-2025",
+    "time": "21:00",
+    "title": "Pending Home Sales m/m"
+  },
+  {
+    "date": "23-02-2025",
+    "time": "02:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "23-02-2025",
+    "time": "20:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "30-10-2025",
+    "time": "19:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "30-10-2025",
+    "time": "19:30",
+    "title": "Advance GDP q/q"
+  },
+  {
+    "date": "27-02-2025",
+    "time": "20:30",
+    "title": "Durable Goods Orders m/m"
+  },
+  {
+    "date": "29-08-2025",
+    "time": "19:30",
+    "title": "Prelim GDP q/q"
+  },
+  {
+    "date": "29-08-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "27-02-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "08-01-2025",
+    "time": "20:15",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "08-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "19:30",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "19:30",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "04-10-2025",
+    "time": "19:30",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "23-01-2025",
+    "time": "20:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "23-01-2025",
+    "time": "23:00",
+    "title": "President Trump Speaks"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "01:00",
+    "title": "Federal Funds Rate"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "01:00",
+    "title": "FOMC Statement"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "01:30",
+    "title": "FOMC Press Conference"
+  },
+  {
+    "date": "03-11-2025",
+    "time": "21:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "05-02-2025",
+    "time": "07:00",
+    "title": "Fed Chair Powell Speaks"
+  },
+  {
+    "date": "05-02-2025",
+    "time": "22:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "21-12-2025",
+    "time": "22:00",
+    "title": "CB Consumer Confidence"
+  },
+  {
+    "date": "28-10-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
+  },
+  {
+    "date": "13-04-2025",
+    "time": "01:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "13-04-2025",
+    "time": "19:30",
+    "title": "Core PPI m/m"
+  },
+  {
+    "date": "13-04-2025",
+    "time": "19:30",
+    "title": "PPI m/m"
+  },
+  {
+    "date": "13-04-2025",
+    "time": "19:30",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "21-06-2025",
+    "time": "03:00",
+    "title": "Treasury Currency Report"
+  },
+  {
+    "date": "21-06-2025",
+    "time": "20:45",
+    "title": "Flash Manufacturing PMI"
+  },
+  {
+    "date": "21-06-2025",
+    "time": "20:45",
+    "title": "Flash Services PMI"
+  },
+  {
+    "date": "31-05-2025",
+    "time": "19:30",
+    "title": "Core PCE Price Index m/m"
   }
 ]

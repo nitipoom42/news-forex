@@ -36,6 +36,7 @@ func GetNewsForex(dateTime string, wg *sync.WaitGroup, mu *sync.Mutex, resDayNew
 			} else {
 				newTime = lastTime
 			}
+
 			impactClass := row.ChildAttr("td.calendar__impact span", "class")
 
 			if curRency == model.CurRencyUSD {
@@ -45,9 +46,15 @@ func GetNewsForex(dateTime string, wg *sync.WaitGroup, mu *sync.Mutex, resDayNew
 				if dateForWeb == dateForCheck {
 					resCheck := checkImpact(curRency, date, dateTime, impactClass)
 					if resCheck == true {
+
+						time, errTime := ConvertTo24HourFormat(newTime)
+						if errTime != nil {
+							time = model.AllDay
+						}
+
 						NewsEvent := model.NewsEvent{
 							Date:  ConvertUnixToDate(dateForCheck),
-							Time:  ConvertTo24HourFormat(newTime),
+							Time:  time,
 							Title: title,
 						}
 						mu.Lock()
@@ -86,16 +93,15 @@ func ConvertUnixToDate(unixTimestamp int64) string {
 	return t.Format("02-01-2006")
 }
 
-func ConvertTo24HourFormat(timeString string) string {
+func ConvertTo24HourFormat(timeString string) (string, error) {
 	timeString = strings.ToUpper(timeString)
 
 	t, err := time.Parse("3:04PM", timeString)
 	if err != nil {
-		log.Println("Error parsing time:", err)
-		return ""
+		return "", err
 	}
 
-	return t.Format("15:04:05")
+	return t.Format("15:04"), nil
 }
 
 func convertToUnix(input string, typeDate string) (int64, error) {

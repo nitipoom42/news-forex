@@ -10,6 +10,7 @@ const (
 	ResImpactMed     = "Medium"
 	ResImpactLow     = "Low"
 	ResImpactUnknown = "Unknown"
+	AllDay           = "ALL DAY"
 )
 
 type NewsEvent struct {
