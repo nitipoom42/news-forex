@@ -1,0 +1,42 @@
+[
+  {
+    "date": "08-01-2025",
+    "time": "20:15:00",
+    "title": "ADP Non-Farm Employment Change"
+  },
+  {
+    "date": "08-01-2025",
+    "time": "20:30:00",
+    "title": "Unemployment Claims"
+  },
+  {
+    "date": "10-01-2025",
+    "time": "20:30:00",
+    "title": "Average Hourly Earnings m/m"
+  },
+  {
+    "date": "10-01-2025",
+    "time": "20:30:00",
+    "title": "Non-Farm Employment Change"
+  },
+  {
+    "date": "10-01-2025",
+    "time": "20:30:00",
+    "title": "Unemployment Rate"
+  },
+  {
+    "date": "09-01-2025",
+    "time": "02:00:00",
+    "title": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "07-01-2025",
+    "time": "22:00:00",
+    "title": "ISM Services PMI"
+  },
+  {
+    "date": "07-01-2025",
+    "time": "22:00:00",
+    "title": "JOLTS Job Openings"
+  }
+]

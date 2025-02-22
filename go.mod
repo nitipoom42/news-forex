@@ -3,7 +3,7 @@ module news-forex
 go 1.24.0
 
 require (
-	github.com/gocolly/colly/v2 v2.1.0
+	github.com/gocolly/colly v1.2.0
 	github.com/labstack/echo/v4 v4.13.3
 )
 
