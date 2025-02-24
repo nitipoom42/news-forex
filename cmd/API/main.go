@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"news-forex/model"
@@ -15,19 +16,11 @@ func main() {
 	// สร้าง Echo instance
 	e := echo.New()
 
-	e.GET("/check-news/:dateCheck/:hourBefore/:hourAfter", func(c echo.Context) error {
+	e.GET("/check-news/:dateCheck/:hour", func(c echo.Context) error {
 
 		dateCheck := c.Param("dateCheck")
-		hourBeforeStr := c.Param("hourBefore")
-		hourBefore, err := strconv.Atoi(hourBeforeStr)
-		if err != nil {
-			return c.JSON(http.StatusBadRequest, map[string]string{
-				"message": "Invalid hourBefore parameter",
-				"err":     err.Error(),
-			})
-		}
-		hourAfterStr := c.Param("hourAfter")
-		hourAfter, err := strconv.Atoi(hourAfterStr)
+		hoursToAddStr := c.Param("hour")
+		intHour, err := strconv.Atoi(hoursToAddStr)
 		if err != nil {
 			return c.JSON(http.StatusBadRequest, map[string]string{
 				"message": "Invalid hourBefore parameter",
@@ -42,10 +35,12 @@ func main() {
 				"err":     err.Error(),
 			})
 		}
-		startTime := dateTime.Add(+time.Duration(hourBefore) * time.Hour)
-		endTime := dateTime.Add(time.Duration(hourAfter) * time.Hour)
 
-		data, err := ioutil.ReadFile("news_forex_history.json")
+		startDate := dateTime
+		endDate := dateTime.Add(time.Duration(intHour) * time.Hour)
+		beforeDate := dateTime.Add(-time.Duration(intHour) * time.Hour)
+
+		data, err := ioutil.ReadFile("news_forex.json")
 		if err != nil {
 			return c.JSON(http.StatusInternalServerError, echo.Map{
 				"message": "ไม่สามารถอ่านไฟล์ JSON ได้",
@@ -60,45 +55,34 @@ func main() {
 				"err":     err.Error(),
 			})
 		}
-		var isStart bool
-		var isEnd bool
+		var isStatus bool
+
 		for _, detail := range news {
+
+			if detail.Date != dateTime.Format("02-01-2006") {
+				continue
+			}
+
+			detailTime, err := time.Parse("02-01-2006 15:04", detail.Date+" "+detail.Time)
+
+			if err != nil {
+				fmt.Println("Error parsing detail time:", err)
+			}
+
+			if detailTime.Unix() >= startDate.Unix() && detailTime.Unix() <= endDate.Unix() || detailTime.Unix() <= beforeDate.Unix() {
+
+				return c.JSON(http.StatusOK, true)
+			}
 
 			if detail.Time == model.AllDay {
 
-				isStart = true
-				isEnd = true
-				continue
-			}
-			newsDateTime, err := time.Parse("02-01-2006 15:04", detail.Date+" "+detail.Time)
-			if err != nil {
-				return c.JSON(http.StatusInternalServerError, echo.Map{
-					"message": "ไม่สามารถแปลง เวลาของข่าวได้",
-					"err":     err.Error(),
-				})
-			}
-			dateTimeNews, err := time.Parse("2006-01-02 15:04", newsDateTime.Format("2006-01-02 15:04"))
-			if err != nil {
-				return c.JSON(http.StatusInternalServerError, echo.Map{
-					"message": "ไม่สามารถแปลง เวลาของข่าวเป็น time ได้",
-					"err":     err.Error(),
-				})
-			}
-
-			if startTime.Hour() == dateTimeNews.Hour() && startTime.Minute() == dateTimeNews.Minute() {
-				isStart = true
-			}
-
-			if endTime.Hour() == dateTimeNews.Hour() && endTime.Minute() == dateTimeNews.Minute() {
-				isEnd = true
+				isStatus = true
 			}
 
 		}
 
-		return c.JSON(http.StatusOK, echo.Map{
-			"startTime": isStart,
-			"endTime":   isEnd,
-		})
+		return c.JSON(http.StatusOK, isStatus)
+
 	})
 
 	e.Logger.Fatal(e.Start(":8080"))
