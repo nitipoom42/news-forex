@@ -35,7 +35,7 @@ func main() {
 			})
 		}
 
-		dateTime, err := time.Parse("2006-01-02 15:04", dateCheck)
+		dateTime, err := time.Parse("2006-01-02_15:04", dateCheck)
 		if err != nil {
 			return c.JSON(http.StatusInternalServerError, echo.Map{
 				"message": "ไม่สามารถแปลง เวลาได้",
@@ -45,7 +45,7 @@ func main() {
 		startTime := dateTime.Add(+time.Duration(hourBefore) * time.Hour)
 		endTime := dateTime.Add(time.Duration(hourAfter) * time.Hour)
 
-		data, err := ioutil.ReadFile("news_forex.json")
+		data, err := ioutil.ReadFile("news_forex_history.json")
 		if err != nil {
 			return c.JSON(http.StatusInternalServerError, echo.Map{
 				"message": "ไม่สามารถอ่านไฟล์ JSON ได้",
@@ -64,6 +64,12 @@ func main() {
 		var isEnd bool
 		for _, detail := range news {
 
+			if detail.Time == model.AllDay {
+
+				isStart = true
+				isEnd = true
+				continue
+			}
 			newsDateTime, err := time.Parse("02-01-2006 15:04", detail.Date+" "+detail.Time)
 			if err != nil {
 				return c.JSON(http.StatusInternalServerError, echo.Map{
